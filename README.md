@@ -44,7 +44,7 @@ A lo largo del proyecto se implementaron flujos de trabajo que permiten **compil
     <tr>
       <td><b>🗄️ Base de Datos</b></td>
       <td>Estructura, scripts SQL y configuración de la base de datos del proyecto</td>
-      <td><a href="https://github.com/Brayanperdomoo/Base-de-datos.git">Ver repositorio →</a></td>
+      <td><a href="https://github.com/Kevin-Stiven-Lopez-Amaya404/db.git">Ver repositorio →</a></td>
     </tr>
     <tr>
       <td><b>📝 Informe Escrito</b></td>

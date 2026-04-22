@@ -39,7 +39,7 @@ A lo largo del proyecto se implementaron flujos de trabajo que permiten **compil
     <tr>
       <td><b>⚙️ APIs Funcionales</b></td>
       <td>Repositorio con las APIs desarrolladas y desplegadas vía GitHub Actions</td>
-      <td><a href="https://github.com/Brayanperdomoo/Deploy-apis.git">Ver repositorio →</a></td>
+      <td><a href="https://github.com/Kevin-Stiven-Lopez-Amaya404/Apis-githubActions.git">Ver repositorio →</a></td>
     </tr>
     <tr>
       <td><b>🗄️ Base de Datos</b></td>

@@ -102,13 +102,7 @@ A lo largo del proyecto se implementaron flujos de trabajo que permiten **compil
 
 ---
 
-## 👨‍💻 Autor
 
-<div align="center">
-
-<img src="https://avatars.githubusercontent.com/brayanperdomoo" width="90" style="border-radius: 50%"/>
-
-**Brayan Perdomo**
 
 [![GitHub](https://img.shields.io/badge/@brayanperdomoo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brayanperdomoo)
 

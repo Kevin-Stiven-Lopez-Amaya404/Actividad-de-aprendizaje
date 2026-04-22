@@ -100,15 +100,7 @@ A lo largo del proyecto se implementaron flujos de trabajo que permiten **compil
 | 4 | Desarrollar APIs funcionales listas para producción | ✅ Completado |
 | 5 | Gestionar y estructurar bases de datos | ✅ Completado |
 
----
 
-
-
-[![GitHub](https://img.shields.io/badge/@brayanperdomoo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brayanperdomoo)
-
-</div>
-
----
 
 
 **📅 Abril 2026 · 🟢 Proyecto Finalizado**

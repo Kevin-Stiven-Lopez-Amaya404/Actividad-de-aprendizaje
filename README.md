@@ -59,7 +59,7 @@ A lo largo del proyecto se implementaron flujos de trabajo que permiten **compil
      <tr>
       <td><b>🖼️ Diapositiva</b></td>
       <td>Material visual adicional del proyecto</td>
-      <td><a href="https://gamma.app/docs/Automatizacion-y-Deploy-con-GitHub-Actions-1ib0v099nwwotsu"> →</a></td>
+      <td><a href="https://gamma.app/docs/Automatizacion-y-Deploy-con-GitHub-Actions-1ib0v099nwwotsu"> ver diapositiva →</a></td>
     </tr>
   </tbody>
 </table>

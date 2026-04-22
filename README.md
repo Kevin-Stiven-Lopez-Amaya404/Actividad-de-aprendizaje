@@ -49,7 +49,7 @@ A lo largo del proyecto se implementaron flujos de trabajo que permiten **compil
     <tr>
       <td><b>📝 Informe Escrito</b></td>
       <td>Versión digital del informe desarrollado a lo largo de la actividad</td>
-      <td><a href="https://drive.google.com/file/d/1y439jg-8LKA3IHf72EXip_wubAZ21Mw/view?usp=drive_link">Ver documento →</a></td>
+      <td><a href="https://drive.google.com/drive/folders/1UT7wja4ilsbI2Kcv7OKfjI3XUI-h_zDt?usp=sharing">Ver documento →</a></td>
     </tr>
     <tr>
       <td><b>🎤 Presentación</b></td>

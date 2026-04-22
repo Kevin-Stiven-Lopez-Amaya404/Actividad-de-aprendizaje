@@ -56,6 +56,11 @@ A lo largo del proyecto se implementaron flujos de trabajo que permiten **compil
       <td>Slides usados para la sustentación del proyecto</td>
       <td><a href="https://gamma.app/docs/Deploy-con-GitHub-Actions-de-una-API-funcional-sb7og6pv0m5xtjg?mode=doc">Ver presentación →</a></td>
     </tr>
+     <tr>
+      <td><b>🖼️ Diapositiva</b></td>
+      <td>Material visual adicional del proyecto</td>
+      <td><a href="#">Agregar enlace →</a></td>
+    </tr>
   </tbody>
 </table>
 

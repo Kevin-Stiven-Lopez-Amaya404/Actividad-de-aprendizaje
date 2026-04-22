@@ -116,9 +116,6 @@ A lo largo del proyecto se implementaron flujos de trabajo que permiten **compil
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
 
 **📅 Abril 2026 · 🟢 Proyecto Finalizado**
 
